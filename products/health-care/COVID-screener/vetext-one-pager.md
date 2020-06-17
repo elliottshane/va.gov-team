@@ -12,7 +12,7 @@ A new VEText feature allows VA facilities to check patients in remotely while en
 VA designed this tool in partnership with Veterans and medical center leadership, incorporating feedback from user testing to ensure the tool meets Veteran and employee needs.
 
 **Text check-in**
-The Veteran sends a text when they arrive at a facility. They receive automated instructions for where to wait for their appointment time.
+The Veteran sends a text with 'I am Here' when they arrive at a facility. They receive automated instructions for where to wait for their appointment time.
 
 **Remote patient tracking**
 Facility staff uses the VEText portal to track patient appointment status. They then text the Veteran when it’s time to come in for their appointment.
